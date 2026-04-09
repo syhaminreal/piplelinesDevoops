@@ -1,0 +1,22 @@
+{
+  "name": "piplelinesdevoops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+     "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syhaminreal/piplelinesDevoops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/syhaminreal/piplelinesDevoops/issues"
+  },
+  "homepage": "https://github.com/syhaminreal/piplelinesDevoops#readme"
+}
